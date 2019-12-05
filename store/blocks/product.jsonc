@@ -41,16 +41,7 @@
     "props": {
       "showListPrice": true,
       "showSavings": true
-    }
-  },
-
-  "product-name": {
-    "children": "product-identifier.product",
-    "props": {
-    }
-  },
-
-  "product-identifier.product": {
+    },
     "children": [ 
       "product-price",
       "flex-layout.row#qty-sku"
@@ -64,6 +55,14 @@
     ]
   },
 
+  "product-name": {
+    "children": "product-identifier.product",
+    "props": {
+    }
+  },
+
+  "product-identifier.product": {
+  },
 
   "buy-button": {
     "props": {
