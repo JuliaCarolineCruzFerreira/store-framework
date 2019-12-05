@@ -45,6 +45,7 @@
   },
 
   "product-name": {
+    "children": "product-identifier.product",
     "props": {
     }
   },
