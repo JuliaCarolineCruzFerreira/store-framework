@@ -19,16 +19,16 @@
     border: transparent;
 }
 
-.infoCardContainer--vintage {
+.infoCardContainer{
     padding: 0;
     margin: 0 auto;
     max-width: 1260px;
+}
+
+.infoCardContainer--vintage {
     background-color: #EDCFD1
 }
 
 .infoCardContainer--metal {
-    padding: 0;
-    margin: 0 auto;
-    max-width: 1260px;
     background-color: #e1e1e1;
 }
