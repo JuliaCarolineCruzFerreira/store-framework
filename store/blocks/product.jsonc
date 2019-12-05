@@ -35,7 +35,7 @@
       "height": "30",
       "displayMode": "logo"
     }
-  }
+  },
 
   "flex-layout.col#right": {
     "children": [
